@@ -1,0 +1,45 @@
+HTTrack3.48-21 launched on Tue, 30 Oct 2018 23:22:18 at http://highgradelab.com/stash/digital-startup/
+(httrack http://highgradelab.com/stash/digital-startup/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:22:19	Warning: 	Found for highgradelab.com/robots.txt
+23:22:19	Warning: 	File has moved from highgradelab.com/robots.txt to http://www.highgradelab.com/
+23:22:56	Error: 	"Method Not Allowed" (405) at link highgradelab.com/stash/digital-startup/xmlrpc.php (from highgradelab.com/stash/digital-startup/)
+23:24:38	Warning: 	Retry after error -4 (No data (connection closed)) at link highgradelab.com/stash/digital-startup/wp-content/plugins/hgr_vc_extender/includes/fonts/outline.svg (from highgradelab.com/stash/digital-startup/wp-content/plugins/hgr_vc_extender/includes/css/outline.min.css?ver=4.8.7)
+23:24:38	Warning: 	Retry after error 500 (Internal Server Error) at link highgradelab.com/stash/digital-startup/wp-content/plugins/hgr_vc_extender/includes/includes/gfx/elements-images/grabbing.png (from highgradelab.com/stash/digital-startup/wp-content/plugins/hgr_vc_extender/includes/css/hgr-vc-extender-elements.min.css?ver=4.8.7)
+23:24:38	Warning: 	Retry after error 500 (Internal Server Error) at link highgradelab.com/stash/digital-startup/wp-content/plugins/hgr_vc_extender/includes/includes/gfx/elements-images/AjaxLoader.gif (from highgradelab.com/stash/digital-startup/wp-content/plugins/hgr_vc_extender/includes/css/hgr-vc-extender-elements.min.css?ver=4.8.7)
+23:24:39	Error: 	"Not Found" (404) at link highgradelab.com/stash/digital-startup/wp-content/themes/stash/highgrade/fonts/preloader.eot?x3i06q (from highgradelab.com/stash/digital-startup/wp-content/themes/stash/highgrade/css/icons.css?ver=4.8.7)
+23:24:39	Error: 	"Not Found" (404) at link highgradelab.com/stash/digital-startup/wp-content/themes/stash/highgrade/fonts/preloader.eot? (from highgradelab.com/stash/digital-startup/wp-content/themes/stash/highgrade/css/icons.css?ver=4.8.7)
+23:24:39	Error: 	"Not Found" (404) at link highgradelab.com/stash/digital-startup/wp-content/themes/stash/highgrade/fonts/preloader.woff?x3i06q (from highgradelab.com/stash/digital-startup/wp-content/themes/stash/highgrade/css/icons.css?ver=4.8.7)
+23:24:39	Error: 	"Not Found" (404) at link highgradelab.com/stash/digital-startup/wp-content/themes/stash/highgrade/fonts/preloader.ttf?x3i06q (from highgradelab.com/stash/digital-startup/wp-content/themes/stash/highgrade/css/icons.css?ver=4.8.7)
+23:24:39	Error: 	"Not Found" (404) at link highgradelab.com/stash/digital-startup/wp-content/themes/stash/highgrade/fonts/preloader.svg?x3i06q (from highgradelab.com/stash/digital-startup/wp-content/themes/stash/highgrade/css/icons.css?ver=4.8.7)
+23:24:39	Warning: 	File not parsed, looks like binary: highgradelab.com/stash/digital-startup/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3
+23:24:39	Warning: 	Retry after error -4 (No data (connection closed)) at link highgradelab.com/stash/digital-startup/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.svg?v=4.6.3 (from highgradelab.com/stash/digital-startup/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=5.2)
+23:24:39	Warning: 	Retry after error -4 (No data (connection closed)) at link highgradelab.com/stash/digital-startup/wp-content/themes/stash/woocommerce/images/down_arrow.png (from highgradelab.com/stash/digital-startup/wp-content/themes/stash/style.css?ver=4.8.7)
+23:24:39	Warning: 	Retry after error 500 (Internal Server Error) at link highgradelab.com/stash/digital-startup/wp-content/themes/img/cd-background-img.jpg (from highgradelab.com/stash/digital-startup/wp-content/themes/stash/style.css?ver=4.8.7)
+23:24:39	Warning: 	Moved Permanently for highgradelab.com/stash/digital-startup/?p=1807
+23:24:39	Warning: 	File has moved from highgradelab.com/stash/digital-startup/?p=1807 to http://highgradelab.com/stash/digital-startup/2014/02/27/love-these/
+23:24:41	Warning: 	Moved Permanently for highgradelab.com/stash/digital-startup/?p=1808
+23:24:41	Warning: 	File has moved from highgradelab.com/stash/digital-startup/?p=1808 to http://highgradelab.com/stash/digital-startup/2014/02/27/there-you-go/
+23:24:42	Warning: 	Retry after error -4 (No data (connection closed)) at link highgradelab.com/stash/digital-startup/2014/02/27/heading-into-monday/feed/ (from highgradelab.com/stash/digital-startup/2014/02/27/heading-into-monday/)
+23:24:42	Warning: 	Moved Permanently for highgradelab.com/stash/digital-startup/?p=1809
+23:24:42	Warning: 	File has moved from highgradelab.com/stash/digital-startup/?p=1809 to http://highgradelab.com/stash/digital-startup/2014/02/27/heading-into-monday/
+23:24:42	Warning: 	Retry after error -4 (No data (connection closed)) at link highgradelab.com/stash/digital-startup/tag/no-tag/ (from highgradelab.com/stash/digital-startup/2014/02/27/heading-into-monday/)
+23:24:42	Warning: 	Retry after error -4 (No data (connection closed)) at link highgradelab.com/stash/digital-startup/wp-content/plugins/hgr_vc_extender/includes/fonts/outline.svg (from highgradelab.com/stash/digital-startup/wp-content/plugins/hgr_vc_extender/includes/css/outline.min.css?ver=4.8.7)
+23:24:42	Warning: 	Retry after error 500 () at link highgradelab.com/stash/digital-startup/wp-content/plugins/hgr_vc_extender/includes/includes/gfx/elements-images/grabbing.png (from highgradelab.com/stash/digital-startup/wp-content/plugins/hgr_vc_extender/includes/css/hgr-vc-extender-elements.min.css?ver=4.8.7)
+23:24:42	Warning: 	Retry after error 500 (Internal Server Error) at link highgradelab.com/stash/digital-startup/wp-content/plugins/hgr_vc_extender/includes/includes/gfx/elements-images/AjaxLoader.gif (from highgradelab.com/stash/digital-startup/wp-content/plugins/hgr_vc_extender/includes/css/hgr-vc-extender-elements.min.css?ver=4.8.7)
+23:24:43	Warning: 	Retry after error -4 (No data (connection closed)) at link highgradelab.com/stash/digital-startup/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.svg?v=4.6.3 (from highgradelab.com/stash/digital-startup/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=5.2)
+23:24:45	Warning: 	Retry after error 500 () at link highgradelab.com/stash/digital-startup/wp-content/themes/img/cd-background-img.jpg (from highgradelab.com/stash/digital-startup/wp-content/themes/stash/style.css?ver=4.8.7)
+23:24:51	Warning: 	Found for highgradelab.com/stash/digital-startup/wp-admin/
+23:24:51	Warning: 	File has moved from highgradelab.com/stash/digital-startup/wp-admin/ to http://highgradelab.com/stash/digital-startup/wp-login.php?redirect_to=http%3A%2F%2Fhighgradelab.com%2Fstash%2Fdigital-startup%2Fwp-admin%2F&reauth=1
+23:24:52	Error: 	"" (500) after 2 retries at link highgradelab.com/stash/digital-startup/wp-content/plugins/hgr_vc_extender/includes/includes/gfx/elements-images/grabbing.png (from highgradelab.com/stash/digital-startup/wp-content/plugins/hgr_vc_extender/includes/css/hgr-vc-extender-elements.min.css?ver=4.8.7)
+23:24:52	Error: 	"Internal Server Error" (500) after 2 retries at link highgradelab.com/stash/digital-startup/wp-content/plugins/hgr_vc_extender/includes/includes/gfx/elements-images/AjaxLoader.gif (from highgradelab.com/stash/digital-startup/wp-content/plugins/hgr_vc_extender/includes/css/hgr-vc-extender-elements.min.css?ver=4.8.7)
+23:24:52	Error: 	"" (500) after 2 retries at link highgradelab.com/stash/digital-startup/wp-content/themes/img/cd-background-img.jpg (from highgradelab.com/stash/digital-startup/wp-content/themes/stash/style.css?ver=4.8.7)
+23:24:53	Error: 	"Not Found" (404) at link highgradelab.com/stash/digital-startup/wp-admin/&reauth=1 (from highgradelab.com/stash/digital-startup/wp-login.php?redirect_to=http%3A%2F%2Fhighgradelab.com%2Fstash%2Fdigital-startup%2Fwp-admin%2F%26reauth=1)
+
+HTTrack Website Copier/3.48-21 mirror complete in 2 minutes 35 seconds : 226 links scanned, 198 files written (6556134 bytes overall) [5279319 bytes received at 34060 bytes/sec], 2214995 bytes transferred using HTTP compression in 57 files, ratio 38%, 12.3 requests per connection
+(10 errors, 24 warnings, 0 messages)

@@ -1,0 +1,34 @@
+HTTrack3.48-21 launched on Tue, 30 Oct 2018 23:36:57 at http://highgradelab.com/stash/corporation/
+(httrack http://highgradelab.com/stash/corporation/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:36:58	Warning: 	Found for highgradelab.com/robots.txt
+23:36:58	Warning: 	File has moved from highgradelab.com/robots.txt to http://www.highgradelab.com/
+23:37:27	Error: 	"Method Not Allowed" (405) at link highgradelab.com/stash/corporation/xmlrpc.php (from highgradelab.com/stash/corporation/)
+23:38:39	Warning: 	Retry after error -4 (No data (connection closed)) at link highgradelab.com/stash/corporation/wp-content/plugins/hgr_vc_extender/includes/fonts/fontawesome-webfont.svg?v=4.0.3 (from highgradelab.com/stash/corporation/wp-content/plugins/hgr_vc_extender/includes/css/font-awesome.min.css?ver=4.8.7)
+23:38:39	Warning: 	Retry after error -4 (No data (connection closed)) at link highgradelab.com/stash/corporation/wp-content/plugins/hgr_vc_extender/includes/fonts/outline.woff (from highgradelab.com/stash/corporation/wp-content/plugins/hgr_vc_extender/includes/css/outline.min.css?ver=4.8.7)
+23:38:39	Warning: 	Retry after error -4 (No data (connection closed)) at link highgradelab.com/stash/corporation/wp-content/plugins/hgr_vc_extender/includes/fonts/outline.svg (from highgradelab.com/stash/corporation/wp-content/plugins/hgr_vc_extender/includes/css/outline.min.css?ver=4.8.7)
+23:38:39	Warning: 	Retry after error -4 (No data (connection closed)) at link highgradelab.com/stash/corporation/wp-content/plugins/hgr_vc_extender/includes/includes/gfx/elements-images/grabbing.png (from highgradelab.com/stash/corporation/wp-content/plugins/hgr_vc_extender/includes/css/hgr-vc-extender-elements.min.css?ver=4.8.7)
+23:38:41	Warning: 	Retry after error 500 (Internal Server Error) at link highgradelab.com/stash/corporation/wp-content/plugins/hgr_vc_extender/includes/includes/gfx/elements-images/AjaxLoader.gif (from highgradelab.com/stash/corporation/wp-content/plugins/hgr_vc_extender/includes/css/hgr-vc-extender-elements.min.css?ver=4.8.7)
+23:38:41	Error: 	"Not Found" (404) at link highgradelab.com/stash/corporation/wp-content/themes/stash/highgrade/fonts/preloader.eot?x3i06q (from highgradelab.com/stash/corporation/wp-content/themes/stash/highgrade/css/icons.css?ver=4.8.7)
+23:38:41	Error: 	"Not Found" (404) at link highgradelab.com/stash/corporation/wp-content/themes/stash/highgrade/fonts/preloader.eot? (from highgradelab.com/stash/corporation/wp-content/themes/stash/highgrade/css/icons.css?ver=4.8.7)
+23:38:41	Error: 	"Not Found" (404) at link highgradelab.com/stash/corporation/wp-content/themes/stash/highgrade/fonts/preloader.woff?x3i06q (from highgradelab.com/stash/corporation/wp-content/themes/stash/highgrade/css/icons.css?ver=4.8.7)
+23:38:41	Error: 	"Not Found" (404) at link highgradelab.com/stash/corporation/wp-content/themes/stash/highgrade/fonts/preloader.ttf?x3i06q (from highgradelab.com/stash/corporation/wp-content/themes/stash/highgrade/css/icons.css?ver=4.8.7)
+23:38:41	Error: 	"Not Found" (404) at link highgradelab.com/stash/corporation/wp-content/themes/stash/highgrade/fonts/preloader.svg?x3i06q (from highgradelab.com/stash/corporation/wp-content/themes/stash/highgrade/css/icons.css?ver=4.8.7)
+23:38:41	Warning: 	Retry after error -4 (No data (connection closed)) at link highgradelab.com/stash/corporation/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.eot?v=4.6.3 (from highgradelab.com/stash/corporation/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=5.2)
+23:38:42	Warning: 	Retry after error -4 (No data (connection closed)) at link highgradelab.com/stash/corporation/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.eot? (from highgradelab.com/stash/corporation/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=5.2)
+23:38:43	Warning: 	File not parsed, looks like binary: highgradelab.com/stash/corporation/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3
+23:38:44	Warning: 	Retry after error 500 (Internal Server Error) at link highgradelab.com/stash/corporation/wp-content/themes/img/cd-background-img.jpg (from highgradelab.com/stash/corporation/wp-content/themes/stash/style.css?ver=4.8.7)
+23:38:55	Warning: 	Retry after error 500 (Internal Server Error) at link highgradelab.com/stash/corporation/wp-content/plugins/hgr_vc_extender/includes/includes/gfx/elements-images/grabbing.png (from highgradelab.com/stash/corporation/wp-content/plugins/hgr_vc_extender/includes/css/hgr-vc-extender-elements.min.css?ver=4.8.7)
+23:38:55	Warning: 	Retry after error 500 () at link highgradelab.com/stash/corporation/wp-content/plugins/hgr_vc_extender/includes/includes/gfx/elements-images/AjaxLoader.gif (from highgradelab.com/stash/corporation/wp-content/plugins/hgr_vc_extender/includes/css/hgr-vc-extender-elements.min.css?ver=4.8.7)
+23:38:55	Warning: 	Retry after error 500 (Internal Server Error) at link highgradelab.com/stash/corporation/wp-content/themes/img/cd-background-img.jpg (from highgradelab.com/stash/corporation/wp-content/themes/stash/style.css?ver=4.8.7)
+23:38:55	Error: 	"No data (connection closed)" (-4) after 2 retries at link highgradelab.com/stash/corporation/wp-content/plugins/hgr_vc_extender/includes/includes/gfx/elements-images/grabbing.png (from highgradelab.com/stash/corporation/wp-content/plugins/hgr_vc_extender/includes/css/hgr-vc-extender-elements.min.css?ver=4.8.7)
+23:38:55	Error: 	"" (500) after 2 retries at link highgradelab.com/stash/corporation/wp-content/plugins/hgr_vc_extender/includes/includes/gfx/elements-images/AjaxLoader.gif (from highgradelab.com/stash/corporation/wp-content/plugins/hgr_vc_extender/includes/css/hgr-vc-extender-elements.min.css?ver=4.8.7)
+23:38:55	Error: 	"No data (connection closed)" (-4) after 2 retries at link highgradelab.com/stash/corporation/wp-content/themes/img/cd-background-img.jpg (from highgradelab.com/stash/corporation/wp-content/themes/stash/style.css?ver=4.8.7)
+
+HTTrack Website Copier/3.48-21 mirror complete in 1 minutes 58 seconds : 179 links scanned, 158 files written (5458988 bytes overall) [4194098 bytes received at 35543 bytes/sec], 2135975 bytes transferred using HTTP compression in 56 files, ratio 37%, 11.8 requests per connection
+(9 errors, 14 warnings, 0 messages)

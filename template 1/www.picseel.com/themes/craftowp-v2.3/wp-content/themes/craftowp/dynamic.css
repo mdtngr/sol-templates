@@ -1,0 +1,171 @@
+/* BEGIN custom_css_field */
+.video-bg-slider h1 {
+    text-transform: uppercase;
+    font-weight: 800;
+    font-size: 72px;
+    font-family: Lato;
+}
+
+.video-bg-slider h2 {
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 21px;
+    font-family: Lato;
+}
+
+#freelancer_portfolio .crafto-section-content {
+    position: static;
+}
+
+.is-ios #home {
+    background-size: cover;
+    background-attachment:scroll;
+}
+/* END custom_css_field */
+/* BEGIN dynamic_css_field */
+#home {
+  background-color: ;
+  background-image: url("../../uploads/2015/08/hands-people-woman-working.jpg");
+  background-repeat: ;
+}
+#home .bg-overlay {
+    background-color: #23222d;
+    opacity: 0.7;
+}
+
+footer.footer {
+  background-color: #23222d;
+  background-image: url("");
+  background-repeat: ;
+}
+
+footer.footer .bg-overlay {
+    background-color: #0b6774;
+    opacity: 0;
+}
+
+footer.footer {
+  background-color: #23222d;
+  background-image: url("");
+  background-repeat: ;
+}
+
+body { font-family: "Open Sans"; }
+h1 { font-family: Lato; }
+h2 { font-family: Lato; }
+h3 { font-family: Lato; }
+h4 { font-family: Lato; }
+h5 { font-family: Lato; }
+h6 { font-family: Lato; }
+.special-heading { font-family: Lato;
+font-weight: 700;
+letter-spacing: 0.02em;
+text-transform: uppercase; }
+.welcome-section .welcome-content h1 { font-family: Lato;
+font-weight: 400; }
+.welcome-section .welcome-content p { font-family: Lato;
+font-weight: 400; }
+.section-description { font-family: Lato; }
+.btn-default {
+    background-color: #23222d;
+    border-color: #23222d;
+}
+.og-details .btn,
+.pricing-button .btn, {
+    color: #23222d;
+    border-color: #23222d;
+}
+.social-icons.dark-icons a:hover,
+.btn-default {
+    border-color: #23222d;
+}
+.portfolio-item > a .overlay-content h4,
+.og-details h3,
+.social-icons.dark-icons a,
+.comments i.fa{
+    color: #23222d;
+}
+.portfolio-item > a {
+    box-shadow: inset 0px 0px 0px 3px #23222d;
+}
+.portfolio-item > a .overlay-content h4::after,
+.og-details .btn:hover,
+.pricing-button .btn:hover,
+.recent-posts .post-col:before,
+.contact-form .form-control:focus,
+.contact-form input[type="submit"]:focus,
+.contact-form input[type="submit"]:hover,
+.comment-form .form-group input:focus,
+.comment-form .form-group textarea:focus,
+.comment-form input[type="submit"]:hover,
+.iconbox .iconbox-icon {
+    background-color: #23222d;
+}
+.navbar-nav li ul:before {
+  background: #23222d;
+}
+.navbar-nav li ul:after {
+  border-bottom-color: #23222d;
+}
+.btn-default.btn-outline {
+    background-color: transparent;
+    color: #23222d;
+    border-color: #23222d;
+}
+.btn-default.btn-outline:hover {
+    background-color: #23222d;
+    border-color: #23222d;
+}
+.og-expander {
+    background-color: #f4f4f4;
+}
+a,
+.reveal-inner-menu:hover,
+.reveal-inner-menu:hover span,
+.iconbox .iconbox-more,
+.inner-menu .current-menu-item > a {color: #ff4d4d;}
+
+a:hover,
+.light-content .pretty-col h2 a:hover,
+.iconbox .iconbox-more:hover,
+.inner-menu .current-menu-item > a:hover,
+.inner-menu .current-menu-item > a:focus {
+  color: #dd1f1f;
+}
+
+.rotating-words {color:#ff4d4d;}
+.scroll-more {color:#ffffff;}
+.team-member span {color: #ff4d4d;}
+.team-member .profile-picture .profile-overlay { background-color: #23222d;}
+.recent-posts .read-more {color:#ff4d4d; border-color:#ff4d4d}
+.recent-posts .read-more:hover {color:#23222d; border-color:#23222d}
+.contact-form .form-control,
+.comment-form .form-group input,
+.comment-form .form-group textarea {
+  border-color:#23222d;
+}
+
+.navbar-nav li a:hover,
+.navbar-nav li a:focus,
+.navbar-nav li a:after,
+.navbar-nav .active a,
+.navbar-nav .active a:hover,
+.navbar-nav .current-menu-item a:hover,
+.navbar-nav .current-menu-item a:focus,
+.navbar-nav .active a:hover,
+.navbar-nav .active a:focus,
+.navbar-nav .current-menu-item > a {
+  color:#ff4d4d;
+}
+
+::selection {color:#fff;background:#ff4d4d;}
+::-moz-selection {color:#fff;background:#ff4d4d;}
+.comments li {border-left-color:#23222d;}
+.pricing-button .btn {
+    color: #23222d;
+    border-color: #23222d;
+}
+.spinner1, .spinner1::before, .spinner1::after {border-color:#ff4d4d;}
+.spinner2 .double-bounce1, .spinner2 .double-bounce2, .spinner3, .spinner4 > div {background-color:#ff4d4d;}
+.preloader {background-color:#ffffff;}
+/* END dynamic_css_field */
